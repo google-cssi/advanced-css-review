@@ -5,36 +5,37 @@ Fork and clone this repository, then view the slides here:
   * [Advanced CSS Slides](https://docs.google.com/presentation/d/1MhtvueUha-9fpn40cHmaMxVLsaYx0fToLGJcPgAihbE/edit#slide=id.p)
 
 
-## Activity Break 1
-
-#### Exercise 1
-Modify the HTML (no css) so that each image appears on its own line, similar to:
-![ex1](http://i.imgur.com/g7xyfuTl.png?1)
-
-### Exercise 2:
-Modify the CSS and HTML if necessary to add a yellow highlight to both headers, similar to:
-![ex2](http://i.imgur.com/kNXmnGkl.png)
-
-#### Exercise 3
-Modify the CSS to center the link, similar to:
-![ex3](http://i.imgur.com/1bsEasXl.png)
-
-## Activity Break 2
-#### Exercise 4
+## Activity Break 1: CSS Selectors
+#### Exercise 1:
 Using only CSS, make the `p`s in the `nav` green, and the `p`s in the `section`, similar to:
 ![ex4](http://i.imgur.com/zhQmS3hl.png)
 
-#### Exercise 5
+#### Exercise 2:
 Without modifying `other-style.css`, make the `h1` have a font size of 100pt, similar to:
 ![ex5](http://i.imgur.com/4k6GeUol.png)
 
-#### Exercise 6
+#### Exercise 3:
 Create a yellow background around the contents of the paragraphs, similar to:
 ![ex6](http://i.imgur.com/R1QMIIjl.png)
 
-## Activity Break 3
+##  Activity Break 2: Display Properties
 
-#### Exercise 7
+#### Exercise 4:
+Modify the HTML (no css) so that each image appears on its own line, similar to:
+![ex1](http://i.imgur.com/g7xyfuTl.png?1)
+
+### Exercise 5:
+Modify the CSS and HTML if necessary to add a yellow highlight to both headers, similar to:
+![ex2](http://i.imgur.com/kNXmnGkl.png)
+
+#### Exercise 6:
+Modify the CSS to center the link, similar to:
+![ex3](http://i.imgur.com/1bsEasXl.png)
+
+
+## Activity Break 3: Box Model
+
+#### Exercise 7:
 Modify the CSS and HTML if necessary to style the page similar to:
 ![ex7](http://i.imgur.com/SRzQInAl.png)
 
@@ -44,7 +45,7 @@ Some specs:
 * The yellow boxes have a width of 30% with a 1% margin.
 * The gray background color is called `gainsboro`. The gray area has a margin of 30px and padding of 10px.
 
-#### Exercise 8
+#### Exercise 8:
 Modify the CSS and HTML if necessary to style the page similar to:
 ![ex8](http://i.imgur.com/tAfnjZCl.png)
 
