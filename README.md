@@ -1,4 +1,4 @@
-# Advanced CSSI Review
+# Advanced CSS Review
 
 Fork and clone this repository, then view the slides here:
 
