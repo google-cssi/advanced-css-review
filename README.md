@@ -2,7 +2,7 @@
 
 Fork and clone this repository, then view the slides here:
 
-  * [Advanced CSS Slides](https://docs.google.com/presentation/d/1MhtvueUha-9fpn40cHmaMxVLsaYx0fToLGJcPgAihbE/edit#slide=id.p) Slides are out of order.
+  * [Advanced CSS Slides](https://docs.google.com/presentation/d/1MhtvueUha-9fpn40cHmaMxVLsaYx0fToLGJcPgAihbE/edit#slide=id.p) (Slides are out of order)
 
 
 ## Activity Break 1: CSS Selectors
